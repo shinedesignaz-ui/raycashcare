@@ -4,6 +4,7 @@ import Programs from '@/components/sections/Programs'
 import CaseStudies from '@/components/sections/CaseStudies'
 import Testimonials from '@/components/sections/Testimonials'
 import Frameworks from '@/components/sections/Frameworks'
+import Community from '@/components/sections/Community'
 import FAQ from '@/components/sections/FAQ'
 import FinalCTA from '@/components/sections/FinalCTA'
 
@@ -26,6 +27,7 @@ export default function Home() {
       <CaseStudies />
       <Testimonials />
       <Frameworks />
+      <Community />
       <FAQ />
       <FinalCTA />
     </>
