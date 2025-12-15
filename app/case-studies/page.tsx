@@ -54,7 +54,7 @@ export default function CaseStudies() {
       format: 'Keynote + Coaching',
       challenge: 'Building leadership culture as company scales',
       outcome: 'Successful Series B funding, 3x team growth',
-      quote: 'Ray doesn't motivate—he transforms.',
+      quote: "Ray doesn't motivate - he transforms.",
     },
   ]
 
